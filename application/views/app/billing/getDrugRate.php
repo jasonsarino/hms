@@ -1,0 +1,2 @@
+<input type="text" onkeypress="return isNumberKey(event)" value="<?php echo $getDrugRate->nPrice?>" name="drug_rate" id="drug_rate" placeholder="rate" class="form-control input-sm" style="width: 100%;" required>
+<input type="hidden" name="drug_name_a" id="drug_name_a" value="<?php echo $getDrugRate->drug_name?>">

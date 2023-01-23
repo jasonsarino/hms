@@ -1,0 +1,28 @@
+INSTALLATION GUIDE
+
+
+MANUAL INSTALLATION
+1. Download and extract hms.zip
+2. Create new folder in htdocs named it "hms"
+3. Copy all extracted files in "hms" folder
+4. Create database named "hms" and import hms.sql
+5. Open your browser and type in url "localhost/hms" and ka-boom!
+
+
+User Logins (temporary for testing)
+
+Administrator Account
+username: demo-hmsh
+password: hospital
+
+Nurse Account
+username: nurse1
+password: nurse1
+
+Doctor Account
+username: doctor1
+password: doctor1
+
+Recetionist Account
+username: receptionist1
+password: receptionist1
